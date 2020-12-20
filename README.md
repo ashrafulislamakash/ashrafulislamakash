@@ -9,7 +9,7 @@ I Designed XU/UI and Mobile apps with efficient  Langues React native. I design 
 <br />
 
 ### Skills and Experience
-
+<p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -25,6 +25,8 @@ I Designed XU/UI and Mobile apps with efficient  Langues React native. I design 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
 <br />
+<br />
+
 
 **Connect with me:**
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashrafulislamakash)
@@ -37,6 +39,8 @@ I Designed XU/UI and Mobile apps with efficient  Langues React native. I design 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ashrafulislamakash)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/ashrafulislamakash)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ashrafulislamakash.netlify.com/)  
+
+<br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafulislamakash&show_icons=true)  
 
