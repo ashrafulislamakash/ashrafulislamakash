@@ -27,6 +27,7 @@ I Designed XU/UI and Mobile apps with efficient  Langues React native. I design 
 <br />
 
 **Connect with me:**
+
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashrafulislamakash)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashraful-islam-akash/)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashrafulislamakash.1232)
@@ -39,7 +40,11 @@ I Designed XU/UI and Mobile apps with efficient  Langues React native. I design 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://app.netlify.com/teams/ashrafulislamakash/overview)  
 
 <br />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafulislamakash&show_icons=true)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulislamakash)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashrafulislamakash)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Profile views](https://gpvc.arturio.dev/ashrafulislamakash)  
