@@ -5,7 +5,7 @@ I Designed UX/UI and Mobile apps with efficient  Langues React native. I design 
 
 - 🔭 I’m currently working on Mobile App
 - 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate with other content creators on [YouTube][youtube]
+- 👯 I’m looking to collaborate with other content creators on [youtube]
 <br />
 
 ### Skills and Experience
