@@ -1,11 +1,9 @@
 ## Hi there 👋, my name is Md. Ashraful Islam
 #### Designer & Developer
-I'm a Designer & Developer from Dhaka, Bangladesh who enjoys building things that create an impact on people, that helps others.
-I Designed UX/UI and Mobile apps with efficient  Langues React native. I design and develop Mobile  App. I enjoy learning and exploring...
+I'm a Designer & Developer from Dhaka, Bangladesh who enjoys building things that create an impact on people, that helps others. I enjoy learning and exploring...
 
-- 🔭 I’m currently working on Mobile App
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate with other content creators on [youtube]
+- 🔭 I’m currently working on UX/UI Design
+- 🌱 I’m currently learning Web Devlopment (MERN Stack)
 <br />
 
 ### Skills and Experience
