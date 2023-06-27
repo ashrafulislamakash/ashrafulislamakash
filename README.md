@@ -34,7 +34,7 @@ I'm a Designer & Developer from Dhaka, Bangladesh who enjoys building things tha
 
 ### Tools & Services
 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)   ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 ### Connect with me
@@ -50,13 +50,22 @@ I'm a Designer & Developer from Dhaka, Bangladesh who enjoys building things tha
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://app.netlify.com/teams/ashrafulislamakash/overview)  
 <br />
 
+
+## 📊 GitHub Stats
+
+<div >
+  
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashrafulislamakash&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) ![Lakshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafulislamakash&theme=chartreuse-dark&hide_border=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulislamakash&layout=compact&hide_border=true&theme=chartreuse-dark)
+
+ </div>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafulislamakash&show_icons=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulislamakash)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashrafulislamakash)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views](https://gpvc.arturio.dev/ashrafulislamakash)  
+
 
 <!-- Status -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ashrafulislamakash)
