@@ -12,6 +12,19 @@ I'm a Designer & Developer from Dhaka, Bangladesh who enjoys building things tha
 - 🌱 I’m currently learning Web Development (MERN Stack)
 <br />
 
+
+<div align="center">
+
+| Q                           | A                                        |
+| --------------------------- | ---------------------------------------- |
+| **Platforms I Develop For** | `Web, Mobile`                       |
+| **Familiar With**           | `JavaScript, React,  C, C++` |
+| **Languages I Learning**    | `C, TypeScript`                                |
+| **2023 Learning Goal**      | `NodeJS, MongoDB, C, TypeScript`                                |
+| **Skills**                  | `Web Application Development, UI/UX`     |
+
+</div>
+
 ### Skills and Experience
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
