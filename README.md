@@ -62,11 +62,7 @@ I'm a Designer & Developer from Dhaka, Bangladesh who enjoys building things tha
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashrafulislamakash&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrafulislamakash&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulislamakash)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashrafulislamakash)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
