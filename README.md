@@ -1,9 +1,15 @@
 ## Hi there 👋, my name is Md. Ashraful Islam
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=Full+Stack+Developer;UI%2FUX+Designer;Crypto+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 #### Designer & Developer
 I'm a Designer & Developer from Dhaka, Bangladesh who enjoys building things that create an impact on people, that helps others. I enjoy learning and exploring...
 
 - 🔭 I’m currently working on UX/UI Design
-- 🌱 I’m currently learning Web Devlopment (MERN Stack)
+- 🌱 I’m currently learning Web Development (MERN Stack)
 <br />
 
 ### Skills and Experience
