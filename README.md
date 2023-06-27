@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=Full+Stack+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
 
 </div>
-#### Designer & Developer
+
 I'm a Designer & Developer from Dhaka, Bangladesh who enjoys building things that create an impact on people, that helps others. I enjoy learning and exploring...
 
 - 🔭 I’m currently working on UX/UI Design
