@@ -11,6 +11,7 @@ I'm a Designer & Developer from Dhaka, Bangladesh who enjoys building things tha
 - 🔭 I’m currently working on UX/UI Design
 - 🌱 I’m currently learning Web Development (MERN Stack)
 <br />
+https://img.shields.io/github/followers/:ashrafulislamakash
 
 
 <div ">
