@@ -1,8 +1,8 @@
 ## Hi there 👋, my name is Md. Ashraful Islam
 
-<div align="center">
+<div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=Full+Stack+Developer;UI%2FUX+Designer;Crypto+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=800&color=28F765&width=480&lines=Full+Stack+Developer;UI%2FUX+Designer)](https://git.io/typing-svg)
 
 </div>
 #### Designer & Developer
