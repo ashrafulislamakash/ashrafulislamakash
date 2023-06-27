@@ -57,3 +57,7 @@ I'm a Designer & Developer from Dhaka, Bangladesh who enjoys building things tha
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashrafulislamakash)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/ashrafulislamakash)  
+
+<!-- Status -->
+![Profile Views](https://komarev.com/ghpvc/?username=ashrafulislamakash)
+![GitHub last commit](https://img.shields.io/github/last-commit/ashrafulislamakash/ashrafulislamakash)
