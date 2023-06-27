@@ -13,7 +13,7 @@ I'm a Designer & Developer from Dhaka, Bangladesh who enjoys building things tha
 <br />
 
 
-<div align="center">
+<div ">
 
 | Q                           | A                                        |
 | --------------------------- | ---------------------------------------- |
