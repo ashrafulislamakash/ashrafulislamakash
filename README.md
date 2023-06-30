@@ -22,7 +22,7 @@ I'm a Designer & Developer from Dhaka, Bangladesh who enjoys building things tha
 | **Familiar With**           | `JavaScript, React,  C, C++` |
 | **Languages I Learning**    | `C, TypeScript`                                |
 | **2023 Learning Goal**      | `NodeJS, MongoDB, C, TypeScript`                                |
-| **Skills**                  | `Web Application Development, UI/UX`     |
+| **Skills**                  | `Web, Web Application Development, UI/UX Design`     |
 
 </div>
 
